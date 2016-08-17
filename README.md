@@ -1,3 +1,3 @@
 # CyanogenMod CMUpdater API
 
-A CyanogenMod 12.1 OTA-test for Nomi i504 Dream
+A CyanogenMod 12.1 OTA-test for S-TELL M457
