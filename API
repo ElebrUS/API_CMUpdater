@@ -3,9 +3,9 @@
  "result": [
 {
     "url": "",
-    "timestamp": "1463067676",
+    "timestamp": "",
     "api_level": "22",
-    "md5sum": "3",
+    "md5sum": "",
     "filename": "",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/ElebrUS/API_CMUpdater/S-TELL_M457/CHANGELOG",
