@@ -8,7 +8,7 @@
     "md5sum": "302f4454b51815a738c1c66d154d9d92",
     "filename": "cm-12.1-20160512-UNOFFICIAL-i504.zip",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/Besik13/API_CMUpdater/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/ElebrUS/API_CMUpdater/master/CHANGELOG",
     "incremental": "5425fe3b9b"
     },
   ],
