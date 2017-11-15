@@ -1,20 +1,12 @@
 {
   "response": [
-        {
-      "filename": "lineage_santoni-ota-f52a7ff552.zip",
-      "url": "https://transfer.sh/15nPBX/lineage_santoni-ota-f52a7ff552.zip",
-      "md5sum": "d7bd597e078bed00145b6aad240b3136",
-      "datetime": 1510695365 ,
-      "romtype": "cm-14.1-20171114-unofficial",
-      "changes": "https://api.elebrus.tk/CHANGELOG",
-      "version": "14.1"
-    },
     {
       "filename": "lineage_santoni-ota-1b5df409bb.zip",
       "url": "https://www.dropbox.com/s/3efvc7gmioknne9/lineage_santoni-ota-1b5df409bb.zip?dl=1",
       "md5sum": "f97f18a6f5b5f058e3449325f904a5c7",
       "datetime": 1510742830 ,
-      "romtype": "unofficial",
+      "romtype": "cm-14.1-20171115-unofficial",
+      "changes": "https://api.elebrus.tk/CHANGELOG",
       "version": "14.1"
     }
   ]
