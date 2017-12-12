@@ -7,16 +7,13 @@
       "datetime": 1513062753 ,
       "romtype": "santoni_unoffical",
       "changelog": [  
-
-      "LineageOSLineageOS[OTA] by pano01",
+      "LineageOS[OTA] by pano01",
       "Update kernel",
       "Updated sources",
       "December security patches",
       "Update audio hal",
       "Add governor"
     ],
-
-
       "version": "14.1"
     }
   ]
