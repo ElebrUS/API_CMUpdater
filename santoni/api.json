@@ -7,6 +7,14 @@
       "romtype": "UNOFFICIAL",
       "url": "https://api.elebrus.tk/upl/lineage-15.1-20180130-UNOFFICIAL-santoni.zip",
       "version": "15.1"
+    },
+    {
+      "datetime": "1517955903",
+      "filename": "lineage-15.1-20180206-UNOFFICIAL-santoni.zip",
+      "id": "1a6ff01dd480058e18a2271e679f14b7",
+      "romtype": "UNOFFICIAL",
+      "url": "https://api.elebrus.tk/upl/lineage-15.1-20180206-UNOFFICIAL-santoni.zip",
+      "version": "15.1"
     }
   ]
 }
