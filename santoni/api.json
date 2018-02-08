@@ -1,13 +1,5 @@
 {
   "response": [
-    {
-      "filename": "lineage-14.1-20180121-UNOFFICIAL-santoni.zip",
-      "url": "https://api.elebrus.tk/upl/lineage-14.1-20180121-UNOFFICIAL-santoni.zip",
-      "md5sum": "44a7b799b0c8716801c830ca30733576",
-      "datetime": 1516603030 ,
-      "romtype": "santoni_unoffical",
-      "version": "14.1"
-    },
     ‎{
       "filename": "lineage-14.1-20180208-UNOFFICIAL-santoni.zip",
       "url": "https://api.elebrus.tk/upl/lineage-14.1-20180208-UNOFFICIAL-santoni.zip",
