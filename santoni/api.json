@@ -1,20 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1517345683",
-      "filename": "lineage-15.1-20180130-UNOFFICIAL-santoni.zip",
-      "id": "9b6889e5db548865c9389c3ef1097a73",
+      "datetime": "1538746084",
+      "filename": "lineage-16.0-20181005-UNOFFICIAL-santoni.zip",
+      "id": "6ae12e98ecfb7f1d9bab63f5529ba33e",
       "romtype": "UNOFFICIAL",
-      "url": "https://api.elebrus.tk/upl/lineage-15.1-20180130-UNOFFICIAL-santoni.zip",
-      "version": "15.1"
-    },
-    {
-      "datetime": "1517955903",
-      "filename": "lineage-15.1-20180206-UNOFFICIAL-santoni.zip",
-      "id": "1a6ff01dd480058e18a2271e679f14b7",
-      "romtype": "UNOFFICIAL",
-      "url": "https://api.elebrus.tk/upl/lineage-15.1-20180206-UNOFFICIAL-santoni.zip",
-      "version": "15.1"
+      "url": "https://github.com/ElebrUS/android_releases/releases/download/LineageOS/lineage-16.0-20181005-UNOFFICIAL-santoni.zip",
+      "version": "16.0"
     }
   ]
 }
