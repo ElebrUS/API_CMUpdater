@@ -6,7 +6,16 @@
       "id": "6ae12e98ecfb7f1d9bab63f5529ba33e",
       "romtype": "UNOFFICIAL",
       "size": 592954577,
-      "url": "https://github.com/ElebrUS/android_releases/releases/download/LineageOS/lineage-16.0-20181005-UNOFFICIAL-santoni.zip",
+      "url": "https://github.com/ElebrUS/android_releases/releases/download/LineageOS-16.0-20181005/lineage-16.0-20181005-UNOFFICIAL-santoni.zip",
+      "version": "16.0"
+    },
+    {
+      "datetime": "1539700265",
+      "filename": "lineage-16.0-20181016-UNOFFICIAL-santoni.zip",
+      "id": "d3cd407045fda71ca261df46b721e27d",
+      "romtype": "UNOFFICIAL",
+      "size": 588714911,
+      "url": "https://github.com/ElebrUS/android_releases/releases/download/LineageOS-16.0-20181016/lineage-16.0-20181016-UNOFFICIAL-santoni.zip",
       "version": "16.0"
     }
   ]
